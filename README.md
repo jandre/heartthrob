@@ -1,6 +1,6 @@
 # Heart Throb - Turns Github Stars to HEARTS <3
 
-<img src="https://raw.githubusercontent.com/jandre/heartthrob/master/logo.png" height="50%"/>
+<img src="https://raw.githubusercontent.com/jandre/heartthrob/master/logo.png" width="50%"/>
 
 ## What is this?
 
