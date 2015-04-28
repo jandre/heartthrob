@@ -4,7 +4,11 @@
 
 ## What is this?
 
-This is a Google Chrome extension that turns Github 'star' actions to love. 
+Have you ever thought: "A star is just not expressive enough to show how excited I am about this repository?"
+
+Have you ever wondered: "How can I make Github truly reflect the joy in my heart?" when you star a repo?
+
+Never fear.  I have a solution for you.  This is a Google Chrome extension that turns Github 'STAR' actions to LOVE. 
 
 See it in action: 
 
