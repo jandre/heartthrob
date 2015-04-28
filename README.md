@@ -18,7 +18,7 @@ A. If you trust me, get it from the Chrome store [here](https://chrome.google.co
 
 ### Q. How do I install this from source?
 
-A. If you are install from source, you can see the instructions from Chrome on how to ["load the extension"](https://developer.chrome.com/extensions/getstarted).
+A. If you are install from source, you can see the instructions from Chrome on how to ["load the extension"](https://developer.chrome.com/extensions/getstarted#unpacked).
 
 ### Q. Why did you make this? 
 
