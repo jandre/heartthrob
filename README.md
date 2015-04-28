@@ -14,7 +14,7 @@ See it in action:
 
 ### Q. How do I install this?
 
-A. If you trust me, get it from the Chrome store [here](https://chrome.google.com/webstore/detail/github-heart-throb/nlabeldifnjcmojijjihlmpmoogjeocn").
+A. If you trust me, get it from the Chrome store [here](https://chrome.google.com/webstore/detail/github-heart-throb/nlabeldifnjcmojijjihlmpmoogjeocn).
 
 ### Q. How do I install this from source?
 
