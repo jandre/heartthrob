@@ -4,7 +4,7 @@
 
 ## What is this?
 
-This is a Chrome plugin that turns Github 'star' actions to love. 
+This is a Google Chrome extension that turns Github 'star' actions to love. 
 
 See it in action: 
 
